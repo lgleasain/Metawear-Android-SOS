@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lgleason/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-128683dcbfde389915f7a412434e6cdcbfa37948.jar" />
+    </item>
+    <item
+        jar="/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/libs/metawearapi-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e3507723383303a1979d029da4febbb263ef885">
+        <dex dex="/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/build/intermediates/pre-dexed/debug/metawearapi-1.2-125138b9d1c46fdeb15b4259399a2b330ac91553.jar" />
+    </item>
+
+</items>

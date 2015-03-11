@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="message_array">
+        <item>SOS! Need Help!</item>
+        <item>Yo, a little help here?</item>
+        <item>Heeeeelp!</item>
+        <item>Aye, give me a hand!</item>
+        <item>Help now!</item>
+        <item>I need some doggone help!</item>
+        <item>I require assistance!</item>
+        <item>Need some help here!</item>
+        <item>Some assistance, please!</item>
+    </string-array>
+    <!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="actionBarColor">#758cc0</color>
+    <color name="action_text">#3D3AB0</color>
+    <color name="backgroundColor">#E6E7E8</color>
+    <color name="darkGray">#AAABAF</color>
+    <color name="dividerColor">#BBBDC0</color>
+    <color name="featureTitleColor">#939597</color>
+    <color name="headerBackgroundColor">#009ada</color>
+    <color name="headerTextColor">#FFFFFF</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="reset">#E82C0C</color>
+    <!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_help">Help</string>
+    <string name="action_info">Device Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SOS Trigger</string>
+    <string name="error_connect_board">Connect to a board before using the app\'s features</string>
+    <string name="error_no_bluetooth">Bluetooth device not deteted</string>
+    <string name="error_no_contact">No contact selected</string>
+    <string name="error_sending_text">Could not send text to one or more numbers</string>
+    <string name="error_title">Error</string>
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="label_battery_level"><b><i>Battery Level</i></b></string>
+    <string name="label_call">Call</string>
+    <string name="label_firmware_version">Firmware Version</string>
+    <string name="label_hardware_version">Hardware Version</string>
+    <string name="label_help">How To</string>
+    <string name="label_manufacturer">Manufacturer</string>
+    <string name="label_ok">OK</string>
+    <string name="label_remote_rssi"><b><i>Remote RSSI</i></b></string>
+    <string name="label_scan">Scan</string>
+    <string name="label_serial_number">Serial Number</string>
+    <string name="label_settings_button">Button Message</string>
+    <string name="label_settings_shake">Shake Message</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_switch">Switch</string>
+    <string name="label_text">Send Text</string>
+    <string name="text_help">1) Enter a contact name and select contact from the list of matches.  Contacts can be removed 
+        by holding the names in the selected contacts list\n2) Configure what messages you want to send in the \"Settings\" 
+        menu\n3) Connect a MetaWear board to the app\n4) Send a text message to your contacts by either pressing the 
+        onboard button or shaking the board</string>
+    <string name="text_rssi_visual">Visual interpretation of the RSSI value</string>
+    <string name="toast_connected">Device Connected</string>
+    <string name="toast_disconnected">Device Disconnected</string>
+    <!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

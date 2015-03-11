@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2014 MbientLab Inc. All rights reserved.
+    Author : Eric Tsai 
+-->
+<resources>
+
+    <string name="app_name">SOS Trigger</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_info">Device Info</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_help">Help</string>
+    <string name="action_settings">Settings</string>
+    <string name="toast_connected">Device Connected</string>
+    <string name="toast_disconnected">Device Disconnected</string>
+
+    <string name="label_switch">Switch</string>
+    <string name="label_call">Call</string>
+    <string name="label_text">Send Text</string>
+    <string name="label_scan">Scan</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_ok">OK</string>
+    <string name="label_help">How To</string>
+    <string name="label_settings_button">Button Message</string>
+    <string name="label_settings_shake">Shake Message</string>
+    <string name="label_serial_number">Serial Number</string>
+    <string name="label_manufacturer">Manufacturer</string>
+    <string name="label_firmware_version">Firmware Version</string>
+    <string name="label_hardware_version">Hardware Version</string>
+    <string name="label_battery_level"><b><i>Battery Level</i></b></string>
+    <string name="label_remote_rssi"><b><i>Remote RSSI</i></b></string>
+    <string name="error_connect_board">Connect to a board before using the app\'s features</string>
+
+    
+    <string-array name="message_array">
+        <item>SOS! Need Help!</item>
+        <item>Yo, a little help here?</item>
+        <item>Heeeeelp!</item>
+        <item>Aye, give me a hand!</item>
+        <item>Help now!</item>
+        <item>I need some doggone help!</item>
+        <item>I require assistance!</item>
+        <item>Need some help here!</item>
+        <item>Some assistance, please!</item>
+    </string-array>
+    
+    <string name="hint_contact_name">Contact Name</string>
+    <string name="text_rssi_visual">Visual interpretation of the RSSI value</string>
+    <string name="text_help">1) Enter a contact name and select contact from the list of matches.  Contacts can be removed 
+        by holding the names in the selected contacts list\n2) Configure what messages you want to send in the \"Settings\" 
+        menu\n3) Connect a MetaWear board to the app\n4) Send a text message to your contacts by either pressing the 
+        onboard button or shaking the board</string>
+    
+    <string name="error_no_contact">No contact selected</string>
+    <string name="error_title">Error</string>
+    <string name="error_no_bluetooth">Bluetooth device not deteted</string>
+    <string name="error_sending_text">Could not send text to one or more numbers</string>
+</resources>

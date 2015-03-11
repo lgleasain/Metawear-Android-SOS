@@ -1,0 +1,41 @@
+<!--
+	Copyright 2014 MbientLab Inc. All rights reserved.
+	Author : Eric Tsai 
+ -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mbientlab.sostrigger.MainActivity" >
+    
+    <item
+        android:id="@+id/action_connect"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_connect"/>
+    
+    <item
+        android:id="@+id/action_disconnect"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_disconnect"/>
+    
+    <item 
+        android:id="@+id/action_help" 
+        android:icon="@android:drawable/ic_menu_help" 
+        android:showAsAction="always" 
+        android:orderInCategory="101"
+        android:title="@string/action_help" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+    <item
+        android:id="@+id/action_info"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_info"/>
+
+</menu>
+<!-- From: file:/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/src/main/res/menu/main.xml -->

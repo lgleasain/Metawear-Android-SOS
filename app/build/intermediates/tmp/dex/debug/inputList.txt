@@ -1,0 +1,3 @@
+/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/build/intermediates/classes/debug
+/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/build/intermediates/pre-dexed/debug/metawearapi-1.2-125138b9d1c46fdeb15b4259399a2b330ac91553.jar
+/Users/lgleason/code/polyglot/beacon/SOSTrigger/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-128683dcbfde389915f7a412434e6cdcbfa37948.jar
